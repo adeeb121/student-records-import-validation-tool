@@ -1,0 +1,21 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Adeeb",
+        "department": "CSE",
+        "marks": [90, 82, 88]
+    },
+    {
+        "student_id": "S102",
+        "name": "Ayush",
+        "department": "CSE",
+        "marks": [88, 82, 105]
+    },
+    {
+        "student_id": "S102",
+        "name": "Harshit",
+        "department": "CSE",
+        "marks": [82, 87, 86]
+    }
+
+]
